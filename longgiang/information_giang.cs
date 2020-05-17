@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace longgiang
 {
-    class Program
+    class information_giang
     {
-        static void Main(string[] args)
+        static void main(string[] args)
         {
-            Console.WriteLine("tep nay la lam lai cua long giang");
-            Console.WriteLine("kho luu tru la nguyenhoanglonggiang");
+            Console.WriteLine("nguyen hoang long giang");
+            Console.WriteLine("26/06/1999");
             Console.ReadLine();
         }
     }
